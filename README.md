@@ -176,3 +176,4 @@ Now that you have collected the data from both APIs, you need to merge the two D
 12. [Extract substring between two characters in pandas](https://stackoverflow.com/questions/51660357/extract-substring-between-two-characters-in-pandas)
 13. [Navigating my first API: the TMDb Database](https://adinasteinman.medium.com/navigating-my-first-api-the-tmdb-database-d8d2975b0df4)
 14. [This tutorial will make your API data pull so much easier](https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af)
+15. [Phind](https://www.phind.com/search?home=true) - Used for error analysis, although it provided many code suggestions. Most references are listed above!
